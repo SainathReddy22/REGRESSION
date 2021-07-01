@@ -1,5 +1,10 @@
 # REGRESSION
 1. LINEAR REGRESSION
+
+Imported required libraries like numpy, pandas, sklearn,...etc
+
+Dataset: Canada Percapita income
+
 2. MULTIPLE REGRESSION 
 
 Imported required libraries like numpy, pandas, sklearn,...etc
